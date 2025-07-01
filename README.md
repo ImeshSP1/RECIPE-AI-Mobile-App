@@ -22,11 +22,7 @@ A Flutter mobile app that helps users generate, save, and explore personalized r
 
 ---
 
-## 📱 Screenshots
 
-> (Add screenshots of each key page: Home, Recipe Feed, Favorites, Add Recipe, Account)
-
----
 
 ## 🧑‍💻 Tech Stack
 
